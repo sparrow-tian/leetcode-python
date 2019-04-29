@@ -19,3 +19,4 @@ class Solution(object):
                 if l==len(needle):
                     return k
         return -1
+    
